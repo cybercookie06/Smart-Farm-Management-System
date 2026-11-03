@@ -1,0 +1,1 @@
+A C++ program that outputs a Smart Farm Management System. The system manages data related to different types of crops and their cultivation details. It also supports recording, displaying, and analyzing data to assist farmers in making decisions.
